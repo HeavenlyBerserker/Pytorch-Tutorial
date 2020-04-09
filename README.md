@@ -10,6 +10,7 @@ The structure of the tutorial is as follows
   * *Pytorch: optimizer, scheduler and data loader*
   * *Pytorch: MNIST step-by-step example*
 * **We return to the Powerpoint** to explore some visualization tools and look/compare with some Tensorflow code
+  * *Pytorch: Ideal project structure* 
   * *Other resources* Visualization and more
   * *Tensorflow briefly: MNIST example*
 
