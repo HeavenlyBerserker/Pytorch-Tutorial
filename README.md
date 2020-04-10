@@ -1,5 +1,5 @@
 # Pytorch-Tutorial
-Created by Hong Xu for University of Utah's Machine Learning class Spring 2020.
+Created by Hong Xu for University of Utah's Machine Learning class Spring 2020. You can find the video of the lecture [here](https://www.youtube.com/watch?v=SqrGNUPqars).
 
 The structure of the tutorial is as follows
 * **Powerpoint first covers**
